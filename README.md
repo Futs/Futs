@@ -3,7 +3,7 @@
   - Processes over logic
   - Emotions over processes
 
-### My Interests and Scatterbrain Thoughts
+### 🧠 My Interests and Scatterbrain Thoughts
 - 🧑‍🎓 Checkout [KodeKloud](https://kodekloud.com) for the best DevOps learning platform!
 - 🌐 To see what I'm working on, head to [Futslab](https://futslab.co.za)
   
