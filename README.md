@@ -5,7 +5,7 @@
 
 ### 🧠 My Interests and Scatterbrain Thoughts
 - 🧑‍🎓 Checkout [KodeKloud](https://kodekloud.com) for the best DevOps learning platform!
-- 🌐 To see what I'm working on, head to [Futslab](https://futslab.co.za)
+- 🌐 To see what I'm working on, head to [Futslab](https://www.futslab.co.za)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=futs&show_icons=true&theme=transparent)
 
